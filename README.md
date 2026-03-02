@@ -22,9 +22,9 @@
 ## 📸 Screen Previews
 
 <div align="center">
-  <img src="assets/covers/screen1.png" width="30%" alt="Library View" />
-  <img src="assets/covers/reader.png" width="30%" alt="Reader View" />
-  <img src="assets/covers/onboarding.png" width="30%" alt="Onboarding View" />
+  <img src="/Users/macbookpro/.gemini/antigravity/brain/68d257ad-1ec7-451f-90ef-6319022c1581/library_mockup_png_1772442660313.png" width="30%" alt="Library View" />
+  <img src="/Users/macbookpro/.gemini/antigravity/brain/68d257ad-1ec7-451f-90ef-6319022c1581/reader_mockup_png_1772442729198.png" width="30%" alt="Reader View" />
+  <img src="/Users/macbookpro/.gemini/antigravity/brain/68d257ad-1ec7-451f-90ef-6319022c1581/onboarding_mockup_png_1772442748204.png" width="30%" alt="Onboarding" />
 </div>
 
 ---
